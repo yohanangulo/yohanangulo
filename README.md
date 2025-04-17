@@ -1,5 +1,12 @@
-<h1>Hey 👋, senior Flutter developer here</h1>
+<h1>Hey 👋, Senior Flutter developer here</h1>
 <p>A passionate Flutter dev</p>
+<br>
+
+<b>🧐 Flutter Expert</b> – Building cross-platform apps with clean, maintainable code. <br>
+<b>💯 UI/UX Focused</b> – Crafting pixel-perfect, responsive interfaces. <br>
+<b>🔥 Firebase Integration</b> – Auth, Firestore, Cloud Functions, and real-time DBs. <br>
+🛠️ <b>Clean Architecture Advocate</b> - BLoC  <br>
+📱 <b>Developed 10+ Apps</b>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
