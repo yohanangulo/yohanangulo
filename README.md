@@ -1,4 +1,4 @@
-<h1>Hey 👋, senior Flutter developer here</h1>
+<h1>Hey 👋, Senior Flutter developer here</h1>
 <p>A passionate Flutter dev</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
