@@ -1,4 +1,4 @@
-<h1>Hey 👋, Senior Flutter developer here</h1>
+<h1>Hey 👋, Senior Flutter Developer here</h1>
 <p>A passionate Flutter dev</p>
 <br>
 
