@@ -1,40 +1,109 @@
-<h1>Hey 👋, Senior Flutter Developer here</h1>
-<p>A passionate Flutter dev</p>
-<br>
+# Hey 👋, Senior Flutter Developer here
 
-<b>🧐 Flutter Expert</b> – Building cross-platform apps with clean, maintainable code. <br>
-<b>💯 UI/UX Focused</b> – Crafting pixel-perfect, responsive interfaces. <br>
-<b>🔥 Firebase Integration</b> – Auth, Firestore, Cloud Functions, and real-time DBs. <br>
-🛠️ <b>Clean Architecture Advocate</b> - BLoC <br>
-📱 <b>Developed 10+ Apps</b>
+A passionate Flutter dev
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/yohan-angulo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/yohan.angulou" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/yohan._.david" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yohanangulo&show_icons=true&locale=en" alt="yohanangulo" /></p>
+---
 
-<h2>📱 Some apps I’ve Worked On</h2>
+## 🎯 About Me
+
+- **🧐 Flutter Expert** – Building cross-platform apps with clean, maintainable code
+- **💯 UI/UX Focused** – Crafting pixel-perfect, responsive interfaces
+- **🔥 Firebase Integration** – Expert in Auth, Firestore, Cloud Functions and real-time databases
+- **🛠️ Clean Architecture Advocate** – Implementing BLoC patterns and clean architectures
+- **📱 10+ Apps Developed** – Proven experience in real-world projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+### **Mobile Development**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### **Frontend Development**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Backend & Database**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Others**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📱 Featured Projects
 
 ### [The Circle Club](https://apps.apple.com/app/the-circle-club/id6746809046)
 
-Developed for [Kiwi Company](https://www.kiwicompany.io/) as a Senior Flutter Developer.
+**Developed for [Kiwi Company](https://www.kiwicompany.io/) as Senior Flutter Developer**
 
-- Built from scratch using Flutter & BLoC.
-- Integrated Supabase, API integrations, and Push Notifications.
-- Published to Google Play and App Store.
+A complete mobile application built from scratch using industry best practices.
 
-| Login Screen                                                                                              | Clients Screen                                                                                           | Client Details                                                                                           |
-| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| <img width="225" src="https://github.com/user-attachments/assets/522a61da-80ff-43a0-8cf1-b16304852723" /> | <img src="https://github.com/user-attachments/assets/b96a7e94-57c8-4c87-ad5a-c3ffd7ad2387" width="225"/> | <img src="https://github.com/user-attachments/assets/f5f843fa-f7ff-4194-af13-7f8560ad3945" width="225"/> |
+**Technologies used:**
+
+- Flutter with BLoC architecture
+- Supabase for backend
+- External API integrations
+- Push Notifications
+- Published on Google Play and App Store
+
+**Screenshots:**
+
+|                                                         Login Screen                                                         |                                                         Clients Screen                                                         |                                                         Client Details                                                         |
+| :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| <img width="275" src="https://github.com/user-attachments/assets/522a61da-80ff-43a0-8cf1-b16304852723" alt="Login Screen" /> | <img src="https://github.com/user-attachments/assets/b96a7e94-57c8-4c87-ad5a-c3ffd7ad2387" width="275" alt="Clients Screen" /> | <img src="https://github.com/user-attachments/assets/f5f843fa-f7ff-4194-af13-7f8560ad3945" width="275" alt="Client Details" /> |
+
+---
+
+### Venley App
+
+**Developed for Venley**
+
+**Technologies used:**
+
+- Flutter with BLoC architecture
+- Firebase for authentication
+- External API integrations
+
+**Screenshots:**
+
+|                                                         Home Screen                                                          |                                                     Search Results Screen                                                      |                                                          Login Screen                                                          |
+| :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| <img width="275" src="https://github.com/user-attachments/assets/27f584e3-7c34-4eec-966f-75eafe0c11f9" alt="Login Screen" /> | <img src="https://github.com/user-attachments/assets/b7728eec-cb5b-4bb0-bece-3363e323a21a" width="275" alt="Clients Screen" /> | <img src="https://github.com/user-attachments/assets/48fa8dc2-a55e-4bda-9170-e2e05f7b20f6" width="275" alt="Client Details" /> |
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohanangulo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanangulo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-angulo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yohanangulo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yohan.angulou)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yohan._.david)
+
+---
+
+## 🎉 Thanks for visiting!
+
+If you like what you see, don't hesitate to contact me! I'm always open to new opportunities and interesting collaborations.
+
+---
+
+_⭐ If you liked this README, give it a star!_
