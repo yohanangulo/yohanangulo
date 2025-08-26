@@ -55,9 +55,9 @@ A passionate Flutter dev
 
 **Screenshots:**
 
-|                                                   Login - Dashboard Screen                                                   |
-| :--------------------------------------------------------------------------------------------------------------------------: |
-| <img width="275" src="https://github.com/user-attachments/assets/e9d8383f-5e9a-4171-8a17-398ea5f4b6c0" alt="Login Screen" /> |
+|                                                   Login - Dashboard Screen                                                   |                                                      Categories Screen                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+| <img width="275" src="https://github.com/user-attachments/assets/e9d8383f-5e9a-4171-8a17-398ea5f4b6c0" alt="Login Screen" /> | <img width="275" src="https://github.com/user-attachments/assets/8943e20e-9724-4f89-be69-62bdc332a609" alt="Login Screen" /> |
 
 ---
 
