@@ -43,6 +43,24 @@ A passionate Flutter dev
 
 ## 📱 Featured Projects
 
+### Spending Pal
+
+**Developed as a Side Project**
+
+**Technologies used:**
+
+- Flutter with BLoC architecture
+- Supabase for backend
+- External API integrations
+
+**Screenshots:**
+
+|                                                   Login - Dashboard Screen                                                   |
+| :--------------------------------------------------------------------------------------------------------------------------: |
+| <img width="275" src="https://github.com/user-attachments/assets/e9d8383f-5e9a-4171-8a17-398ea5f4b6c0" alt="Login Screen" /> |
+
+---
+
 ### [The Circle Club](https://apps.apple.com/app/the-circle-club/id6746809046)
 
 **Developed for [Kiwi Company](https://www.kiwicompany.io/) as Senior Flutter Developer**
